@@ -17,7 +17,7 @@
 
 --------------
 
-This module implements a number of :term:`iterator` building blocks inspired
+This module implements 20 of :term:`iterator` building blocks inspired
 by constructs from APL, Haskell, and SML.  Each has been recast in a form
 suitable for Python.
 
